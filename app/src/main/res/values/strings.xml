@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MovieTestApp</string>
+    <string name="api_key">1a87a1ffc77993fdc3a8c0984f47493d</string>
+    <string name="error_msg">Please check your internet connection</string>
+
+    <string name="genheader">Genres</string>
+    <string name="budget">Budget</string>
+    <string name="revenue">Revenue</string>
+    <string name="overheader">Overview</string>
+    <string name="durheader">Duration</string>
+    <string name="la_header">Language</string>
+
+    <plurals name="time">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%1$d minutes</item>
+    </plurals>
+</resources>
